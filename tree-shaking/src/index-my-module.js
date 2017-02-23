@@ -1,3 +1,3 @@
 import { Sin } from './my-module';
 
-Console.log(Sin(2));
+console.log(Sin(2));
